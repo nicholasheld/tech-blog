@@ -8,7 +8,7 @@ For this web application homework, the goal was to build a basic blog website ut
 Express, Handlebars, mySQL2, Sqeuelize, dotenv, bcrypt, epress-session and connect-session-sequelize.
 
 ## To Run Locally 
-Clone from github, run npm install for the node modules. Start the database and ensure there is a connetion to local host. Run npm watch (using dev dependency nodemon).
+Clone from github, run npm install for the node modules. Start the database and ensure there is a connetion to local host. In the command line type in node server.js.
 
 No outside contributions are requested for this application.
 
