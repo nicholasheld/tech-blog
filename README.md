@@ -14,4 +14,4 @@ No outside contributions are requested for this application.
 
 Github Repo: https://github.com/nicholasheld/tech-blog
 
-Heruko URL:
+Heruko URL: https://peaceful-depths-88586.herokuapp.com/
